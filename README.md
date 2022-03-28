@@ -19,3 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurindo7940)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/Laurindo7940)
+
