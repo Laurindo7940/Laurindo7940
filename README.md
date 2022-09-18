@@ -17,10 +17,13 @@
     <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img aling="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div><br>
 <hr><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurindo7940)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr><br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
